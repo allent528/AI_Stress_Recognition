@@ -1,0 +1,3 @@
+userId,avg_stress_prob,stress_frequency,feedback
+user_1,0.3798234046396242,0.3333333333333333,"[MOCK LLM OUTPUT] Historical Analysis: Average stress was 0.38. It seems you have periods of high stress. Consider long-term stress management like meditation or regular exercise. (Note: OpenAI API key not found or library missing, using mock response)"
+user_2,0.00010148710934343813,0.0,"[MOCK LLM OUTPUT] Historical Analysis: Average stress was 0.00. It seems you have periods of high stress. Consider long-term stress management like meditation or regular exercise. (Note: OpenAI API key not found or library missing, using mock response)"

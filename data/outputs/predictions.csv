@@ -1,0 +1,8 @@
+input,prediction,timestamp
+dict_input,0,2023-10-27T10:00:00Z
+dict_input,0,2023-10-27T10:00:01Z
+dict_input,0,2023-10-27T10:00:01Z
+dict_input,0,2023-10-27T10:00:01Z
+85,45,0.12,0.3139297869255346,False,"[MOCK LLM OUTPUT] Based on a stress probability of 0.31, it is recommended to take a short break and practice deep breathing. (Note: OpenAI API key not found or library missing, using mock response)"
+85,45,0.12,0.3139297869255346,False,"[MOCK LLM OUTPUT] Based on a stress probability of 0.31, it is recommended to take a short break and practice deep breathing. (Note: OpenAI API key not found or library missing, using mock response)"
+85,45,0.12,0.3139297869255346,False,"[MOCK LLM OUTPUT] Based on a stress probability of 0.31, it is recommended to take a short break and practice deep breathing. (Note: OpenAI API key not found or library missing, using mock response)"

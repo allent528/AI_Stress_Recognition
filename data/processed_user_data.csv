@@ -1,0 +1,6 @@
+userId,hr,hrv,ecg_feature
+user_1,80,50,0.1
+user_1,85,45,0.12
+user_1,90,40,0.15
+user_2,60,70,0.05
+user_2,65,65,0.06
